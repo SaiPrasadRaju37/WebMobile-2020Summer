@@ -27,7 +27,7 @@
 
 _**This repository is to maintain the code and documentation for the Web and Mobile programming course.**_
 
-> #### Below are the links for each lesson's wiki and project based exams
+> #### Below are the links for each lesson's wiki and project based exams wiki
 >
 > - **Web ICP1 wiki:** https://github.com/HariRaju37/WebMobile-2020Summer/wiki/Web_ICP1
 > - **Web ICP2 wiki:** https://github.com/HariRaju37/WebMobile-2020Summer/wiki/Web_ICP2
